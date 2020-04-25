@@ -1,0 +1,24 @@
+body{
+    background: cornsilk;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 897px;
+    position: absolute;
+    left: 25%;  
+}
+
+h3{
+    position: fixed;
+    left: 5%;
+    top: 6%;
+    font-size: 1.5em;
+    font-family: cursive;
+}
+
+img {
+    border: 2px solid black ;
+}
